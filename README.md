@@ -5,7 +5,7 @@ This is a repository with different projects like:
 * Data Structures 
 * Files 
 * Compilers
-* Moile Apps 
+* Mobile Apps 
 * Websites 
 * Unit Testing
 * ...
