@@ -1,4 +1,4 @@
-# Unversity-Projects
+# University-Projects
 This is a repository with different projects like:
 * General Purpose Algorithms 
 * Cryptography/Coding Algorithms 
