@@ -1,6 +1,10 @@
-# Thyroid Classification Dataset
+# Data Mining using Rapid Miner
 
-To build a classification model to predict if a patient is normal, suffers from hyperthyroidism or hypothyroidism using [Rapid Miner](https://rapidminer.com/ "Rapid Miner") 
+This is a repository with different projects in Data mining using Rapid Miner.
+The projects include the datasets, data preparation and the complete design of them.
 
-You can change the dataset from test to train, to recieve different results
+Some projects:
+* Classification Trees
+* Clustering
+* Association Rules 
 
