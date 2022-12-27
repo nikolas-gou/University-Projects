@@ -22,3 +22,10 @@ The algorithm is not known.. it's mine for practicing with C, files/data structu
 		 S-binary = 01111100(8-bit) = '|'
 		 remove '0'
 		 S-algorithm = 01101000(7-bit) = 'h'
+
+### Output :
+![alt text](https://github.com/nikolas-gou/University-Projects/blob/main/Files/EncryptionDecryption/images/1.png)
+
+![alt text](https://github.com/nikolas-gou/University-Projects/blob/main/Files/EncryptionDecryption/images/2.png)
+
+![alt text](https://github.com/nikolas-gou/University-Projects/blob/main/Files/EncryptionDecryption/images/3.png)
