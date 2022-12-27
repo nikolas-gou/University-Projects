@@ -8,6 +8,7 @@ This is a repository with different projects like:
 * Mobile Apps 
 * Websites 
 * Unit Testing
+* AI/ML - Data Mining
 * ...
 
 during my studies at the University of thessaly.
