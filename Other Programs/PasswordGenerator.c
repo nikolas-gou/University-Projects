@@ -30,5 +30,7 @@ int main(int argc, char **argv) {
 	printf("\nGenerated Password : ");
 	for(i = 0; i < N; i++) {
 		printf("%c", password[i]);
-	}	
+	}
+	
+	return 0;
 }
