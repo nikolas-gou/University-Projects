@@ -1,5 +1,5 @@
 //				Introduction to Progarmming - Semester #1
-//			    *** Find 1,2 or more elements in anarchy array ***
+//			    *** Find 1,2 or more max elements in anarchy array-without any kind of sorting ***
 // Coding by Gkouziotis Nikolaos
 
 #include<stdio.h>
@@ -29,7 +29,7 @@ int main() {
 	}
 
 //	Print the N max numbers
-	printf("\nThe N max numbers in matrix is : ");
+	printf("\nThe N max numbers in matrix are : ");
 	for(i = 0; i < N; i++) 
 		if(A[1][i] == 1)
 			printf("%d, ", A[0][i]);
