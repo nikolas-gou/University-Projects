@@ -10,6 +10,7 @@ This is a repository with different projects like:
 * Websites 
 * Unit Testing
 * AI/ML - Data Mining
+* Quantum Computing
 * ...
 
 during my studies at the University of thessaly.
