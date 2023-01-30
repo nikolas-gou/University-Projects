@@ -7,7 +7,7 @@ This is a repository with different projects like:
 * Files 
 * Compilers
 * Mobile Apps 
-* Websites 
+* Web Development
 * Unit Testing
 * AI/ML - Data Mining
 * Quantum Computing
