@@ -1,7 +1,8 @@
 # University-Projects
 This is a repository with different projects like:
 * General Purpose Algorithms 
-* Cryptography/Coding Algorithms 
+* Cryptography Algorithms
+* Coding Algorithms 
 * Data Structures 
 * Files 
 * Compilers
