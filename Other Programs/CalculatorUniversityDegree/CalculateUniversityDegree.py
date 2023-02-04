@@ -14,6 +14,3 @@ for i in range(0, len(degree)):
         total_ects += ects[i];
 
 print("Your university degree is: " + "{:.2f}".format(sum/total_ects))
-
-
-
