@@ -7,7 +7,6 @@ array_2 = df.iloc[:, 2].values
 
 sum = 0;
 total_ects = 0;
-counter = 0;
 
 for i in range(0, 39):
     if array_1[i] >= 5:
