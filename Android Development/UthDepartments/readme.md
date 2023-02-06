@@ -10,7 +10,8 @@
 #### The user selects their department and semester, then gets details about your courses.
 
 ### Execution app:
-![alt text](https://github.com/nikolas-gou/University-Projects/new/main/Android%20Development/UthDepartments/images/1.png)
-![alt text](https://github.com/nikolas-gou/University-Projects/new/main/Android%20Development/UthDepartments/images/2.png)
-![alt text](https://github.com/nikolas-gou/University-Projects/new/main/Android%20Development/UthDepartments/images/3.png)
-![alt text](https://github.com/nikolas-gou/University-Projects/new/main/Android%20Development/UthDepartments/images/4.png)
+![alt text](https://github.com/nikolas-gou/University-Projects/blob/main/Android%20Development/images/1.png)
+![alt text](https://github.com/nikolas-gou/University-Projects/blob/main/Android%20Development/images/2.png)
+
+![alt text](https://github.com/nikolas-gou/University-Projects/blob/main/Android%20Development/images/3.png)
+![alt text](https://github.com/nikolas-gou/University-Projects/blob/main/Android%20Development/images/4.png)
