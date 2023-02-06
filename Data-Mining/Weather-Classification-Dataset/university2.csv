@@ -1,0 +1,15 @@
+weather,road,day,windy,date,on-time
+sun,local,weekend,strong,05/03/2016,yes
+sun,local,weekday,strong,02/03/2016,yes
+mist,local,weekend,strong,06/03/2016,yes
+rain,highway,weekend,weak,12/03/2016,yes
+rain,highway,weekend,strong,13/03/2016,yes
+rain,highway,weekday,weak,04/03/2016,no
+mist,highway,weekday,strong,08/03/2016,no
+sun,local,weekend,weak,19/03/2016,yes
+sun,highway,weekend,weak,20/03/2016,yes
+rain,local,weekend,weak,26/03/2016,yes
+sun,local,weekday,weak,17/03/2016,yes
+mist,local,weekday,strong,18/03/2016,yes
+mist,highway,weekend,weak,27/03/2016,no
+rain,local,weekday,strong,29/03/2016,no

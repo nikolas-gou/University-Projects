@@ -1,0 +1,7 @@
+@import 'home.css';
+
+
+.link:hover {
+    opacity: 100;
+    color: rgb(50, 172, 60);
+}

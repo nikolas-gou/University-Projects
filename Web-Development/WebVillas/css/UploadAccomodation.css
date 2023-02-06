@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(../img/villa-form-back.3jpg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+img {
+    height: 60px;
+}
+
+.sign-up-form {
+    width: 500px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.sign-up-form h1 {
+    color: #1c8adb;
+    margin-bottom: 30px;
+}
+
+.input-box {
+    float: left;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 70%;
+    border: 1px solid #999;
+    outline:none;
+}
+
+.quality {
+    float: left;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+select.scale-rating {
+    margin-right: 150px;
+}
+.scale-rating {
+    float: right;
+    display: block;
+}
+
+p.activity {
+    float: left;
+    margin-left: 125px;
+}
+
+hr {
+    width: 80%;
+    float: left;
+}
+
+.activity-check {
+    float: left;
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.list-activity {
+    float:left;
+    text-align: left;
+    list-style: none;
+}
+#checkboxes ul {
+    display: flex;
+    list-style: none;
+}
+
+
+button {
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.sign-btn {
+    background-color: #1c8adb;
+}
+
+.google-btn {
+    background-color:#DB4437;
+}
+
+a {
+    text-decoration: none;
+    text-align: right;
+}
+img {
+    size: 0.1em;
+    height: 1.3em;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+.result {
+    background-color: whitesmoke;
+    font-size: 1.3em;
+    padding: 3px 10px;
+    margin: 3px 0;
+    border-radius: 7px;
+    text-align: left;
+  }
+
+.update-delete {
+    text-align: right;
+}
+
+
+
+
+

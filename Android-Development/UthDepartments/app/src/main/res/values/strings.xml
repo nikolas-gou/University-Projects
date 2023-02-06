@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Direction Courses</string>
+    <string name="find_courses">Ανάκτηση Μαθημάτων</string>
+    <string name="courses"></string>
+
+    <string-array name="directions">
+        <item>Μηχανικών Λογισμικού</item>
+        <item>Μηχανικών Δικτύων</item>
+        <item>Μηχανικών Η/Υ</item>
+    </string-array>
+    <string-array name="semesters"> <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>
