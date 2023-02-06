@@ -6,7 +6,7 @@ This is a repository with different projects like:
 * Data Structures 
 * Files 
 * Compilers
-* Mobile Apps 
+* Android Development
 * Web Development
 * Unit Testing
 * AI/ML - Data Mining
