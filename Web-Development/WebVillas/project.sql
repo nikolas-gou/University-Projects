@@ -100,6 +100,7 @@ CREATE TABLE IF NOT EXISTS `registration` (
 
 INSERT INTO `registration` (`username`, `password`, `salt`, `email`, `active`) VALUES
 ('nikolas2', '$6$DokSalt$MxdhbRZ8UKAc2E9/j8aAl5fbo5vnYsfq9B6hHJZxvfCZVhVlHP0KDKWNWZWhswtyIcGhpIrHmirKSHDsLW/pu1', '$6$DokSalt', 'yourEmail@gmail.com', 1);
+-- password: nikolasnikolas
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
