@@ -20,10 +20,14 @@ public class MainActivity extends AppCompatActivity {
     public void onClickFindCourses(View view) {
         TextView courses = findViewById(R.id.courses);
         Spinner directions = findViewById(R.id.direction);
+        Spinner semesters = findViewById(R.id.semester);
+
         String direction =
                 String.valueOf(directions.getSelectedItem());
+        int semester =
+                Integer.parseInt(String.valueOf(semesters.getSelectedItem()));
         List<String> courseNames =
-                DirectionCourses.getDirectionCourses(direction);
+                DirectionCourses.getDirectionCourses(direction, semester);
         StringBuilder sb = new StringBuilder();
 
         for (String courseName : courseNames) {
