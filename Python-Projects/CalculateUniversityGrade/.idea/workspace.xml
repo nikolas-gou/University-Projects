@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="133fbf38-972a-4f71-b4e6-f4af1eddb860" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Crypto/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crypto/showAllHistoryOfCoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crypto-api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/cryptoStatistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/--EURESH MEGALUTERWN STOIXEIWN SE PINAKA 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/1-1ASK.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/1-1ASK.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/1-2ASK-2o.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/1-2ASK-2o.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/1-2ASK.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/1.1erg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/1hVersionArgosTropos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/1oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/2hVersionGrhgorosTropos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/2oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/3examhno-arxeia.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/3oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/4oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/ANAZHTHSH SE ATAKSINOMITO PINAKA.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/ANAZHTHSH SE ATAKSINOMITO PINAKA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/ASKHSH_SAVVA_OURA_ARXEIO.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/ASKHSH_SAVVA_OURA_ARXEIO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/ArxiTelos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/BitwiseOR.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/BitwiseOR.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/DOKIMH_SUNARTHSEWN.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/DOKIMH_SUNARTHSEWN.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/DUADUKH ANAZHTHSH.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/DUADUKH ANAZHTHSH.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/Dentro-puramida.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/Donut.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/Donut.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/Donut_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/Donut_Rainbow_3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/Donut_Rainbow_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ANAGNWSH RED - ARXEIA KEIMENOU.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ANAGNWSH RED - ARXEIA KEIMENOU.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ANTIGRAFH KEIMENOU - ARXEIA KEIMENOU.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ANTIGRAFH KEIMENOU - ARXEIA KEIMENOU.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO BINARY - EGGRAFH_DIMIOURGIA.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO BINARY - EGGRAFH_DIMIOURGIA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO BINARY - READ.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO BINARY - READ.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO KEIMENOU - FIBONACCI READ.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO KEIMENOU - FIBONACCI READ.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO KEIMENOU - FIBONACCI READ2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO KEIMENOU - FIBONACCI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ARXEIO KEIMENOU - FIBONACCI.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/DIADIKI ANAZHTHSH.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/DIADIKI ANAZHTHSH.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EGGRAFH KEIMENOU - ARXEIA KEIMENOU.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EGGRAFH KEIMENOU - ARXEIA KEIMENOU.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ENOPOIHSH PINAKWN.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/ENOPOIHSH PINAKWN.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EPANALHPTIKES ASKHSEIS #1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EPANALHPTIKES ASKHSEIS #1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EPANALHPTIKES ASKHSEIS #2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EPANALHPTIKES ASKHSEIS #2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EPANALHPTIKES ASKHSEIS #3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EPANALHPTIKES ASKHSEIS #3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/EPANALHPTIKES ASKHSEIS __1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/KAYTW TRIGENIKOS PINAKAS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/LUSEIS EPANALHPTIKWN ASKHSEWN__2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/LUSEIS EPANALHPTIKWN ASKHSEWN__3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/LUSEIS EPANALHPTIKWN ASKHSEWN__4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/LUSEIS EPANALHPTIKWN ASKHSEWN__5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/LUSEIS EPANALHPTIKWN ASKHSEWN__6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/LUSEIS EPANALHPTIKWN ASKHSEWN__7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/LUSEIS EPANALHPTIKWN ASKHSEWN__8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/LUSEIS EPANALHPTIKWN ASKHSEWN__9.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/Oura_arxeio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/PELATOLOGIO EURETIRIASMENO 2,c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/PELATOLOGIO EURETIRIASMENO 2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/PELATOLOGIO EURETIRIASMENO 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/PELATOLOGIO2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/PELATOLOGIO2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/SELECTION SHORT.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/STIVA.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/anagnwsh_txt.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/anagnwsh_txt.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/anagsh_binaryFile.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/anagsh_binaryFile.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/copy_txt.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/copy_txt.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/covid.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/covid.ndx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/covid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/eggrafh_binary_file.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/eggrafh_binary_file.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/epanalhpsh_W.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/epanalhpsh_W2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/fibo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/fibo2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/fibonacci.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/fibonacci.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/fibonacci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/index.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/lista.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/metrhths grammwn_txt.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/metrhths grammwn_txt.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/oura.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/oura.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/oura2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/oura2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/pel2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/pelates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/pelates.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/pelates2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/pelates3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/pelatologio_binaryFile.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/pelatologio_binaryFile.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/write.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/Χωρίς τίτλο1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EPANALHPSEIS/Χωρίς τίτλο1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EURESH MEGALUTERWN STOIXEIWN SE PINAKA 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EURESH_MEGALUTERWN_TIMWN_SE_ANARXO_PINAKA.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EURESH_MEGISTWN_ANARX_VER2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/EURESH_MEGISTWN_ANARX_VER2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/FAIL (2).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/FAIL (3).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/FAIL (4).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/FAIL.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/Oura.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/PRWTOI ARITMOI - KOSKINO ERATOTHENH.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/PRWTOI ARITMOI - KOSKINO ERATOTHENH.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/STIVES/1h askhsh/dok.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/STIVES/1h askhsh/dok.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/STIVES/1h askhsh/oura-ergasia.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/STIVES/1h askhsh/oura-ergasia.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/STIVES/STIVA_1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/STIVES/STIVA_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/STIVES/stiva_1_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/STIVES/stiva_1_2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/TAKSINOMISEIS PINAKWN/XRONOMETRHSH TAXNIMOHSEWN KAI ENPO.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/TAKSINOMISEIS PINAKWN/XRONOMETRHSH TAXNIMOHSEWN KAI ENPO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/TAKSINOMISEIS PINAKWN/taxinomisi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/TAKSINOMISEIS PINAKWN/taxinomisi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/TOPIKA MEGISTA SUNARTHSH.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/TOPIKA_MEGISTA_ARXEIO/EGGRAFH SE ARXEIO.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/TOPIKA_MEGISTA_ARXEIO/EGGRAFH SE ARXEIO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/TOPIKA_MEGISTA_ARXEIO/myFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/XRONOMETRHSH TAXNIMOHSEWN KAI ENPO.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/XRONOMETRHSH TAXNIMOHSEWN KAI ENPO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/anadromi_quiz.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/anadromi_quiz.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/anagnwsi apo arxeio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/anazhthsh sugkekrimenou arithmou se arxeio.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/anazhtwntas se tuxaious arithmous arxeio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/anazhtwntas se tuxaious arithmous arxeio2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/anazhtwntas se tuxaious arithmous arxeio2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/arxeia_domwn_ameros.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/arxeia_domwn_ameros.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/askhsh apo vivlio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/askhsh apo vivlio.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/delete.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/delete.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/delete1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/delete1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/dleet.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/dokimastiko_forl_gia eksetash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/ergasia2oures.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh emegistw.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn stoixeiwn se anarxo pinaka.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn stoixeiwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/--EURESH MEGALUTERWN STOIXEIWN SE PINAKA 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/1hVersionArgosTropos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/2hVersionGrhgorosTropos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/2hVersionGrhgorosTropos.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/EURESH MEGALUTERWN STOIXEIWN SE PINAKA 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/FAIL (2).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/FAIL (2).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/FAIL (3).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/FAIL (4).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/FAIL.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/euresh emegistw.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/euresh megaluterwn stoixeiwn se anarxo pinaka.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/euresh megaluterwn stoixeiwn se anarxo pinaka.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/euresh megaluterwn timwn1/euresh megaluterwn stoixeiwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/foitites_tropopoihsh_kwdika.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/fork.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/gafwntas se ena arxeio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/gafwntas se ena arxeio.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/grafwntas ena arxeio me tuxaious arithmous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/grafwntas se ena arxeio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/kronecker2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/kronecker2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/lista-apllh-practise.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/lista-apllh-practise.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/lista.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/lista.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/lista1_savvas.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/lista1_savvas.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/lista_kuklikh_practise.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/lista_kuklikh_practise.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/logarithmos_dokimastiko.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/logarithmos_dokimastiko.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/memset.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/memset.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/oura arxeiosavvas.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/pinakas _sunarthsh.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/pinakas _sunarthsh.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/pinakas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/prosomeiwsh timh zariou.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/prosomeiwsh timh zariou.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/provlhmata/tupou_dentraki.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/provlhmata/tupou_dentraki.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/savvas askhshmathima.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/savvas askhshmathima.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/spazokefalia ginomeno knocker.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/spazokefalia me ginomenopinakwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/stoixhsh grammwn.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/sunenwsh duo arxeion se 1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/sunenwsh duo arxeion se 1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/taksinomis gia diktya.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/taksinomis gia diktya.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/taxinomisi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/taxinomisi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/test.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/text.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/typecasting.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/typecasting.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/upologismos_orizousas.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/upologismos_orizousas.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/xronia_polla_giwrghs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ALL_PROGRAMMS/xronia_polla_giwrghs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Files/EncryptDecrypt/EncryptDecryptData.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Files/EncryptDecrypt/ena.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Files/EncryptDecrypt/ena1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Files/EncryptDecrypt/ena2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/3119213_ΝΙΚΟΛΑΟΣ_ΓΚΟΥΖΙΩΤΗΣ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/3119213_ΝΙΚΟΛΑΟΣ_ΓΚΟΥΖΙΩΤΗΣ_ΑΠΟΚΩΔΙΚΟΠΟΙΗΣΗ_3οΕΞΑΜΗΝΟ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Ch/anagnwsi apo arxeio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Ch/anagnwsi apo arxeio.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Ch/diavazwntas apo arxeio bianry.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Ch/diavazwntas apo arxeio bianry.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Doimastikastonkairoths ergasias/dokimastika 2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Doimastikastonkairoths ergasias/dokimastika 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Doimastikastonkairoths ergasias/dokimes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Doimastikastonkairoths ergasias/dokimes.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Doimastikastonkairoths ergasias/prospelash string kai allagh timwn.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/Doimastikastonkairoths ergasias/prospelash string kai allagh timwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/KWDIKOPOIHSH-KRUPTOGRAFHSH (MENU).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/KWDIKOPOIHSH-KRUPTOGRAFHSH (MENU).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/PARAKALW DWSTE TO PATH TOU ARXEIOU POU THELETE NA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/TEST2_KRUPTOGRAFHSH_ETOIMO.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/TEST2_KRUPTOGRAFHSH_ETOIMO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/Test3Apokru.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/Test3Apokru.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/Test4convertBinaryToAscii.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/TestPrwtoSkelosEtoimo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/TestPrwtoSkelosEtoimo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/1oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/1oSkelos.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/2oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/3oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/4oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/4oSkelos.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/EncryptDecryptData.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/EncryptDecryptData.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/EncryptDecryptData2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/EncryptDecryptData2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/TEST2_KRUPTOGRAFHSH_ETOIMO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/Test3Apokru.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/V" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/decryptedData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/ed.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/ed2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/ena4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/encryptedData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/gia savva/ΔΟΚΙΜΑΣΤΙΚΟ_TestPrwtoSkelosEtoimo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/test/1oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/test/2oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/test/3oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/test/4oSkelos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/ΔΟΚΙΜΑΣΤΙΚΟ_TestPrwtoSkelosEtoimo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/TESTKOBLE/ΔΟΚΙΜΑΣΤΙΚΟ_TestPrwtoSkelosEtoimo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/binary to ascii.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/doiavazwdas apo arxeiobinary.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/doiavazwdas apo arxeiobinary.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/dokimastika 2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/dokimastika 2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/dokimes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/dokimes.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ergasia 1(binary_to_ascci)/εργασια2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 4(ευρεση μεγαλυτ.Στοιχ.δυναμικά)/2hVersionGrhgorosTropos.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 4(ευρεση μεγαλυτ.Στοιχ.δυναμικά)/EURESH MEGALUTERWN STOIXEIWN SE ANARXO PINAKA VER_3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 4(ευρεση μεγαλυτ.Στοιχ.δυναμικά)/EURESH MEGALUTERWN STOIXEIWN SE ANARXO PINAKA VER_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 4(ευρεση μεγαλυτ.Στοιχ.δυναμικά)/EURESH_MEGALUTERWN_TIMWN_SE_ANARXO_PINAKA.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 4(ευρεση μεγαλυτ.Στοιχ.δυναμικά)/EURESH_MEGALUTERWN_TIMWN_SE_ANARXO_PINAKA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 4(ευρεση μεγαλυτ.Στοιχ.δυναμικά)/EURESH_MEGISTWN_ANARX_VER2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 4(ευρεση μεγαλυτ.Στοιχ.δυναμικά)/EURESH_MEGISTWN_ANARX_VER2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 5 (τοπικα μεγιστα σε πινακα)/TOPIKA MEGISTA SE PINAKA 2D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 5 (τοπικα μεγιστα σε πινακα)/TOPIKA MEGISTA SE PINAKA 2D.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 5 (τοπικα μεγιστα σε πινακα)/TOPIKA_MEGISTA VER2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΑΣΚΗΣΗ 5 (τοπικα μεγιστα σε πινακα)/TOPIKA_MEGISTA VER2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Ασκηση 2(epitaxunsh_tropopihsh enow kwdika)/Foitites.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Ασκηση 2(epitaxunsh_tropopihsh enow kwdika)/foitites (1).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Ασκηση 2(epitaxunsh_tropopihsh enow kwdika)/foitites (1).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Ασκηση 2(epitaxunsh_tropopihsh enow kwdika)/foitites (2).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Ασκηση 2(epitaxunsh_tropopihsh enow kwdika)/foitites.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Ασκηση 2(epitaxunsh_tropopihsh enow kwdika)/foitites_tropopoihsh_kwdika.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/Ασκηση 2(epitaxunsh_tropopihsh enow kwdika)/foitites_tropopoihsh_kwdika.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/ERGASIA_EXAM_2_OURES - Αντιγραφή.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/ERGASIA_EXAM_2_OURES - Αντιγραφή.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/ERGASIA_EXAM_2_OURES.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/ERGASIA_EXAM_2_OURES.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/ERGASIA_EXAM_2_OURES19_12COPY.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/ERGASIA_EXAM_2_OURES19_12COPY.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/OURA-DOMES.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/OURA-DOMES.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/OURA-DOMES1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/OURA-DOMES1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/OURA-DOMES2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/OURA-DOMES3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/ergasia_1oura.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/ergasia_carbon.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/gia savva/2h ERGASIA EXAMINOU.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/gia savva/2hERGASIA_EXAM_OURES.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/gia savva/2hERGASIA_EXAM_OURES.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/gia savva/2hERGASIA_EXAM_OURES.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/gia savva/ergasia2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/gia savva/ergasia2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/oura_exam_carbon.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ΕΡΓΑΣΙΑ 2(ΔΟΜΕΣ-ΟΥΡΑ)/oura_exam_carbon.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ασκηση 3/Foitites.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ασκηση 3/Foitites.ndx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ασκηση 3/eurethrio_foit.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ασκηση 3/foithtes.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ασκηση 3/me savva tautoxrona.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ασκηση 3/me savva tautoxrona.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ασκηση 3/Χωρίς τίτλο1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/ASKHSEIS/ασκηση 3/Χωρίς τίτλο1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/DEIKTES_8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/pointers.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/DEIKTES/pointers.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/Dentro-puramida.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/Dentro-puramida.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/ginomeno_kronecker.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/mpountalas.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/mpountalas.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/spazokefalia ginomeno knocker.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/spazokefalia ginomeno knocker.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/spazokefalia me ginomenopinakwn.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3ο ΕΞΑΜΗΝΟ-C/SPAZOKEFALIES_PROGRAMMATA/spazokefalia me ginomenopinakwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/8,1_QUEENS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/8,1_QUEENS.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/8,1_QUEENS.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/8_QUEENS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/8_QUEENS.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/8_QUEENS.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/8_QUEENS_XWRIS_ANA.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/8_QUEEN_SEIRIAKA_.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ALUSIDA_MIKOUS_SAVVAS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ALUSIDA_MIKOUS_SAVVAS.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ANADROMH_ASKHSEIS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ANADROMH_ASKHSEIS.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ANARXOS_PINAKAS_EURESH_MEGALUTEROU.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/Aplhstos_Algorithmos_knapshack.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/Aplhstos_Algorithmos_knapshack.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/EGUPTIAKA_KLASMATA_APLHSTOI_ALGORITHMOI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/EGUPTIAKA_KLASMATA_APLHSTOI_ALGORITHMOI.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/EPISTROFH RESTWN_APLHSTOI_ALGORITMOI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/EPISTROFH RESTWN_APLHSTOI_ALGORITMOI.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/WROLOGIA PROGRAMMATA-APLHSTOS_ALGORITMOS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/WROLOGIA PROGRAMMATA-APLHSTOS_ALGORITMOS.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/APLHSTOI ALGORITMOI/algoeithmos_sakos_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Aplhstos_Algorithmos_knapshack.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Aplhstos_Algorithmos_knapshack.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Convex_Hull_Problem/Convex Hull Problem.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Convex_Hull_Problem/Convex_Hull_Problem_.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Convex_Hull_Problem/Convex_Hull_Problem_.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Convex_Hull_Problem/Convex_Hull_Problem_.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Convex_Hull_Problem_.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Convex_Hull_Problem_.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DELEET_DEDOR.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DELEET_DEDOR.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DELEET_DEDOR.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DENTRO.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DENTRO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DENTRO.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DIJKSTRA4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DIJKSTRA4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DIJKSTRA5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DIJKSTRA5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DIJKSTRA_3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/DIJKSTRA_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro4_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_Kwdikopoihsh_Huffman.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_Kwdikopoihsh_Huffman.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dedro_Kwdikopoihsh_Huffman.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dendro2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dynamic_Recursion_Alusida_Polla_Pinakwn.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dynamic_Recursion_Alusida_Polla_Pinakwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dynamic_Recursion_Alusida_Pollaplasiamos_Pinakwn.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dynamic_Recursion_Alusida_Pollaplasiamos_Pinakwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Dynamic_Recursion_Alusida_Pollaplasiamos_Pinakwn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EGUPTIAKA_KLASMATA_APLHSTOI_ALGORITHMOI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EGUPTIAKA_KLASMATA_APLHSTOI_ALGORITHMOI.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EGUPTIAKA_KLASMATA_APLHSTOI_ALGORITHMOI.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EPISTROFH RESTWN_APLHSTOI_ALGORITMOI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EPISTROFH RESTWN_APLHSTOI_ALGORITMOI.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EURESH MEGISTOU PLHTHOUS ARITMWN SE AUKSOUSA DIATAKSH SE MIA ALUSIDA.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EURESH MEGISTOU PLHTHOUS ARITMWN SE AUKSOUSA DIATAKSH SE MIA ALUSIDA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EURESH_MEG_ALUSIDAS_AUKS_DIATAKS_VER2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/EURESH_MEG_ALUSIDAS_AUKS_DIATAKS_VER2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Euresh_Megistou_Anadromh.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Euresh_Megistou_Anadromh.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/FILIOI_ARITHMOI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/FILIOI_ARITHMOI.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/FILIOI_ARITHMOI/FILIOI_ARITHMOI.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/FILIOI_ARITHMOI/FILIOI_ARITHMOI.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/FILIOI_ARITHMOI/Filioi_Arithmoi.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Hash_Tables.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Hash_Tables.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Hash_Tables.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Hello_World_CODE_BLOCK.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Hello_World_CODE_BLOCK.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Hello_World_CODE_BLOCK.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/KWDIKOPOIHSH HUFFMAN.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/KWDIKOPOIHSH HUFFMAN.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/KWDIKOPOIHSH HUFFMAN.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/METRIESIS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/METRIESIS.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/My_Convex_Hull_Problem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/My_Convex_Hull_Problem.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Oxi_diko_omu__convex_hull_problem__c++.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/POLLAPLASIASMOS ALISUDOTWN PINAKWN.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/POLLAPLASIASMOS ALISUDOTWN PINAKWN.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/POLUPLOKOTHTA_PEIRAMA.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/POLUPLOKOTHTA_PEIRAMA.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/PROVLIMA VELTISTHS EPILOGHS STON DISDIASTATO XWRO.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/PROVLIMA VELTISTHS EPILOGHS STON DISDIASTATO XWRO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Quiz_EURESH THS KALPIKHS LIRAS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Quiz_EURESH THS KALPIKHS LIRAS.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/REVERSE_LINKED_LIST.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/REVERSE_LINKED_LIST.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/REVERSE_LINKED_LIST.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Tree_den einai fiko mou.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Tree_den einai fiko mou.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Tree_den einai fiko mou.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Untitled1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Untitled1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/Untitled1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/WROLOGIA PROGRAMMATA-APLHSTOS_ALGORITMOS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/WROLOGIA PROGRAMMATA-APLHSTOS_ALGORITMOS.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/WROLOGIA PROGRAMMATA-APLHSTOS_ALGORITMOS.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/algoeithmos_sakos_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/convex_hull_problem.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/convex_hull_problem2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/convex_hull_problem__c++.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dedro_3_copia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dijkstra_1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dijkstra_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dijkstra_2.c .c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dijkstra_2.c .exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dijkstra_oxidikomou.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dijkstra_oxidikomou.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dunamikos_pro_pollaplasiasmow_pinakwn.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/dunamikos_pro_pollaplasiasmow_pinakwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/fibonacci.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/fibonacci.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/fibonacci.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/filioi_ 2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/hash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/hello_convex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/huff_den einai diko_mou.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/huff_den einai diko_mou.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/huff_den einai diko_mou.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/huff_den einai diom.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/huff_den einai diom.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/huffman.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/lista_savvas.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/lista_savvas.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/lista_savvas.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/merge_sort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/merge_sort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/oxi_diko_mou__convex_hull_problem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/queens_backtracking_oxi_diko_mou.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/queens_backtracking_oxi_diko_mou.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/quiz_1/1o Quiz_mpales_aklpikh_lira.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/quiz_1/1o Quiz_mpales_aklpikh_lira.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/quiz_1/Quiz.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/savvas_megisth_alusida.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/savvas_megisth_alusida.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/savvas_megisth_alusida.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/subnet.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/subnet.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/tutorial_char.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/tutorial_char.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ΑΝΑΛΥΣΗ ΚΑΙ ΣΧΕΔΙΑΣΗ ΑΛΓΟΡΙΘΜΩΝ - Συντόμευση.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ρεμακε/2hVersionGrhgorosTropos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ρεμακε/2hVersionGrhgorosTropos.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ρεμακε/Dynamic_Recursion_Alusida_Polla_Pinakwn.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ρεμακε/Dynamic_Recursion_Alusida_Polla_Pinakwn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4o Εξάμηνο-c_python/ρεμακε/Dynamic_Recursion_Alusida_Polla_Pinakwn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/Ergasia.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/Ergasia.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/ID.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/Untitled1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/Untitled1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/Untitled2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/ga.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/max distance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/AI/max distance.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/AlgorithmsCryptography5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/CryptographyAlgorithms.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/CryptographyAlgorithms.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/CryptographyAlgorithms2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/DELETE.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/DELETE.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/HillCipher.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/HillCipher.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/Untitled1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/Untitled1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/Untitled10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/Untitled10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/Untitled11.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/Untitled11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/Untitled2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/a.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/a2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/a2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/C/Cyber Security/c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/Untitled2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/Untitled3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/Untitled3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6o Εξαμηνο/fork.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crypto/Find_Liquidation.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Crypto/Find_Liquidation.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Crypto/Find_Liquidation.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Crypto/Find_Liquidation.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PaixnidiHex/HEX.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PaixnidiHex/HEX.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github/Dijkstra.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github/convex_hull_problem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github/dokimi/Euresh_Megistou_Anadromh.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github/dokimi/Find_Max_Element_Recursion_Way.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github/dokimi/Find_Max_Element_Recursion_Way.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github/dokimi/dd.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github/git/c-programming" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LHJyQV6gagAZGmvHVAhJikCw8o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikol/Desktop/Programming/MyProjects/Python&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Python.CalculateUniversityDegree">
+    <configuration name="CalculateUniversityDegree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CalculateUniversityDegree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crypto-api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crypto-api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CalculateUniversityDegree" />
+        <item itemvalue="Python.crypto-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="133fbf38-972a-4f71-b4e6-f4af1eddb860" name="Changes" comment="" />
+      <created>1675522329613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675522329613</updated>
+    </task>
+    <servers />
+  </component>
+</project>
